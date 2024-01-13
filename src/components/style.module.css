@@ -1,0 +1,12 @@
+body{
+    @apply p-10
+}
+.container{
+    @apply flex justify-center items-center w-auto h-auto border-2 border-black p-2
+}
+.image{
+    @apply max-w-36
+}
+p{
+    @apply ml-6
+}
